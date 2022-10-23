@@ -1,4 +1,3 @@
 Hola, mi nombre es Ketta
 Mi hobby favorito es salir a caminar cuando se puede
-Estoy en un curso para aprender a programar.
-Mi animal favorito son los perros.
+Estoy en un curso para aprender a programar y mi animal favorito son los perros.
